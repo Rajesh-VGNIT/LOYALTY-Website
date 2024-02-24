@@ -5,12 +5,12 @@ body {
 }
 
 a {
-  color: #ef6603;
+  color: #343957;
   text-decoration: none;
 }
 
 a:hover {
-  color: #fc8129;
+  color: #555974;
   text-decoration: none;
 }
 
@@ -551,9 +551,8 @@ section {
   text-align: center;
 }
 .text3{
-  color: #cc3366;
   font-size: 1.1rem;
-  font-weight: 700;
+  font-weight: 600;
 }
 .sponsor{
   padding-top: 80px;
