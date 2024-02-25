@@ -659,6 +659,7 @@ section {
 }
 .topic ul li{
   line-height: 1.8rem;
+  margin-left: 1.5rem;
 }
 
 .about .content h3 {
