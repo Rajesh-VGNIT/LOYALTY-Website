@@ -36,7 +36,7 @@ h6 {
   background: #cc3366;
   width: 40px;
   height: 40px;
-  border-radius: 50px;
+  border-radius: 5px;
   transition: all 0.4s;
 }
 
@@ -145,7 +145,7 @@ h6 {
   color: #fff;
   white-space: nowrap;
   transition: 0.3s;
-  border-radius: 50px;
+  border-radius: 5px;
 }
 
 
@@ -567,7 +567,7 @@ section {
   text-align: center;
 }
 .sponsor hr{
-  margin-left: .7rem;
+  /* margin-left: .7rem; */
   color: #444444;
 }
 .sponsor_center button{
@@ -956,7 +956,7 @@ cards images and content
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
-  border-radius: 50%;
+  border-radius: 5px;
   text-align: center;
   width: 36px;
   height: 36px;
